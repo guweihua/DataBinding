@@ -4,7 +4,10 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
+import com.example.guweihua.databinding.fragment.DuanZiFragment;
 import com.example.guweihua.databinding.fragment.RiBaoFragment;
+import com.example.guweihua.databinding.fragment.ShiPinFragment;
+import com.example.guweihua.databinding.fragment.TuPianFragment;
 
 import java.util.ArrayList;
 import java.util.List;
