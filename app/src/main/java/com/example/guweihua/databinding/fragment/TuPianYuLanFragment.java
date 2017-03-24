@@ -11,6 +11,8 @@ import com.example.guweihua.databinding.databinding.ItemTuPianYuLanBinding;
 //TODO
 @ActivityFragmentAnnoation(contentId = R.layout.item_tu_pian_yu_lan)
 public class TuPianYuLanFragment extends BaseFragment<ItemTuPianYuLanBinding> {
+    boolean isFirst=true;
+
     @Override
     protected void initFragmentImpl() {
 
